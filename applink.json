@@ -5,7 +5,7 @@
     ],
     "target": {
       "namespace": "fitbasix",
-      "package_name": "com.example.fitbasix",
+      "package_name": "com.example.fitbasix.dev",
       "sha256_cert_fingerprints": [
         "A9:18:7D:00:C4:F1:E9:B8:46:A1:BE:91:4E:0D:6A:3E:B0:A4:61:A8:1C:AF:6F:C7:F9:9C:CB:63:55:7E:C0:E2"
       ]
